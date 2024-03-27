@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(241, 231, 215);
+font:normal 16px Arial, Verdana, sans-serif;
+}
+
+h1{
+text-align: center;
+color: rgb(19, 78, 80);
+}
+
+h1#principal{
+    text-align: center;
+    font-size: 3em;
+    background-color: rgb(19, 78, 80);
+    color: rgb(255, 255, 255);
+}
+
+h2{
+text-align: center;
+color: rgb(30, 131, 134);
+}
+
+.básico{
+    color: rgb(204, 139, 0);
+}
+
+.intermediário{
+    color: rgb(212, 124, 7);
+}
+
+.avançado{
+    color: rgb(255, 94, 0);
+}
+
+.destaque{
+    background-color: rgb(255, 255, 0);
+}
+
+p{
+text-align: center;
+}
